@@ -4,14 +4,14 @@
 Welcome to my repository for **Python Advanced course at [SoftUni](https://softuni.bg/) - January 2023**! Here, you'll find my solutions to all the tasks and exercises assigned during the course.
 
 ## 📖 About the Course
-This course builds upon the foundational knowledge of Python, delving into more complex concepts typical of the language. The focus is on creating linear data structures, solving algorithmic problems, working with Stacks & Queues, Tuples & Sets, and Multidimensional Lists (matrices). It also covers working with files and directories and explores the functional programming paradigm. Additionally, recursive functions and functions with multiple arguments are discussed in greater depth.
+This course builds upon the foundational knowledge of Python, delving into more complex concepts typical of the language. The focus is on creating linear data structures, solving algorithmic problems, working with Stacks & Queues, Tuples & Sets and Multidimensional Lists (matrices). It also covers working with files and directories and explores the functional programming paradigm. Additionally, recursive functions and functions with multiple arguments are discussed in greater depth.
 
 ### Skills Acquired:
 - [x] Working with two-dimensional data structures
 - [x] Creating linear data structures
 - [x] Applying basic algorithms
 - [x] Implementing functional programming concepts
-- [x] Handling data streams, files, and directories
+- [x] Handling data streams, files and directories
 - [x] Error handling
 
 ## 🎓 Certificate
